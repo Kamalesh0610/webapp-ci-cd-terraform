@@ -1,0 +1,6 @@
+# Terraform files
+iac/*.tfstate
+iac/*.tfstate.*
+iac/.terraform/
+iac/.terraform.lock.hcl
+iac/crash.log
